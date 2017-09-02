@@ -2,8 +2,7 @@
 
 int main()
 {
-    printf("Hello World\n");
-    printf("Mais um hello World\n");
+    printf("Exemplo em C\n");
     
     return 0;
 }
